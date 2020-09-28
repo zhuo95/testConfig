@@ -989,7 +989,7 @@ processes:
                     endTask: true
                     closesParent: true
   - flowType: HC
-      processName: ZZ
+      processName: InvoicePublishReporting
       slaInSeconds: 3600
       startTasks:
         - clientId: 1010
