@@ -1303,7 +1303,7 @@ configuration: >
       ]
     },
     {
-      "flowType": "HC",
+      "flowType": "ATLAS",
       "processName": "HotelCollectEvent",
       "slaInSeconds": 3600,
       "startTasks": [
