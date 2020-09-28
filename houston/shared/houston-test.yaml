@@ -949,7 +949,7 @@ processes:
                 startTask: false
                 endTask: true
                 closesParent: true
-  - flowType: ATLAS
+  - flowType: HC
     processName: HotelCollectEvent
     slaInSeconds: 3600
     startTasks:
